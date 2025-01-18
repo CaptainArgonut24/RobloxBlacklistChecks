@@ -68,4 +68,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Start managing your blacklists more efficiently with RobloxBlacklistChecks! Happy developing!
 
 
-Support my work and follow for more: buymeacoffee.com/captargo24
+Support my work and follow for more: [buymeacoffee.com/captargo24](https://buymeacoffee.com/captargo24)
