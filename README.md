@@ -13,6 +13,7 @@
 ## Requirements
 
 - **HTTP Requests** must be enabled in your Roblox game settings.
+- Pastebin or database must be in a .json and must be in this format [0000000,]
 
 ## Installation
 
@@ -31,7 +32,7 @@
    - Configure the script with your Pastebin URL.
 
 
-4. **Customize** any additional settings or behavior as needed for your game.
+4. **Customize** any additional settings or behaviour as needed for your game.
 
 
 
@@ -43,11 +44,11 @@ Once the script is in place and correctly configured:
 - If a blacklisted entity is detected, the script can take predefined actions, such as kicking the player or displaying a warning message.
 
 
-Customize this function to define the behavior when a blacklist match is found.
+Customize this function to define the behaviour when a blacklist match is found.
 
 ## Updating the Blacklist
 
-- Simply update the Pastebin file with new blacklisted entries.
+- Update the Pastebin file with new blacklisted entries.
 - No changes are needed within your Roblox game after initial setup.
 
 ## Important Notes
@@ -57,7 +58,7 @@ Customize this function to define the behavior when a blacklist match is found.
 
 ## Contributions
 
-Contributions are welcome! Feel free to submit a pull request or open an issue if you have suggestions or improvements. Everyone is free to use and edit this, remember to give credit.  
+Contributions are welcome! Feel free to submit a pull request or open an issue if you have suggestions or improvements. Everyone is free to use and edit this. Remember to give credit.  
 
 ## License
 
@@ -68,4 +69,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Start managing your blacklists more efficiently with RobloxBlacklistChecks! Happy developing!
 
 
-Support my work and follow for more: [buymeacoffee.com/captargo24](https://buymeacoffee.com/captargo24)
+Please support my work and follow for more: [buymeacoffee.com/captargo24](https://buymeacoffee.com/captargo24)
